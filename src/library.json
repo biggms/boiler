@@ -1,0 +1,22 @@
+{
+  "name": "Boiler",
+  "keywords": "boiler, greenstar, wocester, bosch, 433, drayton",
+  "description": "Library to turn on and off a Wocester Bosch GreenStar boiler with Drayton controller",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/biggms/boiler.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Graham Stewart",
+      "email": "gstewart05@gmail.com",
+      "url": "biggms.noip.me",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
