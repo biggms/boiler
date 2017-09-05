@@ -1,7 +1,6 @@
 #include "Arduino.h"
-#include "Boiler.h"
+#include "Boiler.hpp"
 
-#define REPEATTIME 6000
 #define REPEATTIME 60000
 #define PULSETIME 1900
 #define PULSES 3
