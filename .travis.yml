@@ -57,4 +57,4 @@ install:
     - pip install -U platformio
 
 script:
-    - platformio ci --lib="." --board=nodemcuv2 examples
+    - platformio ci --lib="src" --board=nodemcuv2 test
